@@ -18,4 +18,4 @@
 <a href="https://www.linkedin.com/in/tcharles-vargas-87407029a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> <img src="https://img.icons8.com/?size=50&id=8808&format=png" alt="logo-linkedin" target="_blank"> <a/> 
 
 [![Tcharles stats](https://github-readme-stats.vercel.app/api?username=TcharlesVargas)](https://github.com/anuraghazra/github-readme-stats)
-[![Tcharles Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcharlesvargas)](https://github.com/anuraghazra/github-readme-stats)
+[![Tcharles Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TcharlesVargas)](https://github.com/anuraghazra/github-readme-stats)
