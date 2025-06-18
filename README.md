@@ -2,7 +2,7 @@
 (EN) I am Tcharles Vargas, a beginner in the programming field, currently completing a Front-End development course and moving towards Full Stack, at the moment, I am learning and developing projects with:"
 <br>
 <br>
-(PT-BR) Sou Tcharles Vargas, um iniciante na área de programação, concluindo a formação em Front End e seguindo rumo à full stack, estou no momento apredendo e desenvolvendo projetos com: 
+(PT-BR) Sou Tcharles Vargas, um iniciante na área de programação, concluindo a formação em Front End e seguindo rumo à full stack, no momento estou apredendo e desenvolvendo projetos com: 
 <br>
 <br>
 <ul>
